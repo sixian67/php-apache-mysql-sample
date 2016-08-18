@@ -1,4 +1,6 @@
 <?php
+echo 'this is test';
+die();
 
 require('DB.php');
 
