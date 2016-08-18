@@ -1,5 +1,5 @@
 <?php
-echo 'this is test';
+echo 'this is test001';
 die();
 
 require('DB.php');
